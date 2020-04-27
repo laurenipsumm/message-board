@@ -1,15 +1,15 @@
 # Mini Message Board
----
+
 Project based on [The Odin Project's](https://www.theodinproject.com/) NodeJS track. 
 
-## Assignment Objective
-___
+## Assignment Objectives
+
 - Create an Express app using express-generator and prefered templating language
 - Users should be able to view all messages on the index page and create new messages
 - Index page should display the new message the user created
 
 ## To Run
-___
+
 - Clone repository with your preferred flavor of cloning 🍨
 - Navigate to message-board directory
 - Install packages
@@ -21,9 +21,9 @@ ___
 - In your browser navigate to `http://localhost:3000`
 
 ## To View Live App
-___
-View live application [here](https://heroku.com)
+
+View live application [here](https://intense-shore-85572.herokuapp.com/)
 
 ## Author
-___
+
 Lauren Conley
