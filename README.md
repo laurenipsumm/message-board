@@ -4,7 +4,7 @@ Project based on [The Odin Project's](https://www.theodinproject.com/) NodeJS tr
 
 ## Assignment Objectives
 
-- Create an Express app using express-generator and prefered templating language
+- Create an Express app using express-generator and preferred templating language
 - Users should be able to view all messages on the index page and create new messages
 - Index page should display the new message the user created
 
